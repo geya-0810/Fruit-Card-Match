@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruit Card Match</string>
+    <string name="btnStart">Press anywhere to start</string>>
+    <string name="description">Game Guide\n\n
+        1. Solo Game \n
+        Start a solo game and remove all the cards!\n\n
+        2. Rules \n WHEN the game starts, a 2-minute countdown will start and you can turn over the cards. If two identical cards are turned over, the card will be removed. WHEN the overtime card is removed, the countdown will increase by 20 seconds. WHEN all cards are removed, the next round of the game will proceed according to the remaining time on the countdown timer. WHEN the countdown reaches 0, the game ends.
+    </string>>
+</resources>
